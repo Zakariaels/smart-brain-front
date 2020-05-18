@@ -1,3 +1,7 @@
+CRWN Clothing is a massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more.
+
+This is the front end part of a full stack app (MERN stack), using Firebase.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
